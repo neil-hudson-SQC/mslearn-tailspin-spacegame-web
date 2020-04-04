@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/devopsplaypen01/Explore%20Worflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/devopsplaypen01/Explore%20Worflow/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
