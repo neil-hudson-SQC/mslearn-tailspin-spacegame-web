@@ -95,7 +95,7 @@ steps:
 
 - task: SonarCloudPublish@1
   displayName: 'Publish SonarCloud quality gate results'
-   condition: |
+  condition: |
     and
     (
       succeeded(),
