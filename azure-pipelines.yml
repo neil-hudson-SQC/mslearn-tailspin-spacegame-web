@@ -6,7 +6,7 @@ trigger:
   # demands:
     # - npm
 
- pool:
+pool:
   name: 'MyAgentPool'
   demands:
   - npm
